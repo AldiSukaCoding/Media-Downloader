@@ -26,4 +26,3 @@ Aplikasi ini membutuhkan **FFmpeg** untuk menggabungkan video beresolusi tinggi 
 Instal pustaka yang dibutuhkan dengan menjalankan perintah berikut di terminal/command prompt:
 ```bash
 pip install customtkinter yt-dlp spotdl
- bikin seperti ini aja
